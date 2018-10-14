@@ -1,5 +1,4 @@
 ## code your solution here. 
-class Person
+class Cat
   attr_accessor :name
- 
 end
